@@ -68,43 +68,27 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mod Truk Oleng Full Modif",
+      "name": "Hino Dump Truk",
       "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mod Truk Oleng Full Modif",
-      "title": "Apa itu truk oleng full modif?",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukolengfullmoodif/main/trukoleng1.html",
+      "category": "Hino Dump Truk",
+      "title": "HINO 500 DUMP TRUCK BUDESIGN MBOISS",
+      "image": "https://github.com/majjalan111/trukhinodumptruck/blob/main/dumptruk%20fitur%20(2).png",
+      "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukhinodumptruck/raw/main/hinodumptruk1.html",
       "video": ""
     },
 {
       "id": 2,
-      "category": "Mod Truk Oleng Full Modif",
-      "title": "Kumpulan Mod Truk Oleng Full modifikasi #1",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukolengfullmoodif/main/trukoleng2.html",
+      "category": "Hino Dump Truk",
+      "title": "HINO 500 DUMP V2 BUDESIGN SIMPLE MBOIS",
+      "image": "https://github.com/majjalan111/trukhinodumptruck/blob/main/dumptruk%20fitur%20(3).png",
+      "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukhinodumptruck/raw/main/hinodumptruk2.html",
       "video": ""
-    },
-{
-      "id": 3,
-      "category": "Mod Truk Oleng Full Modif",
-      "title": "Kumpulan Mod Truk Oleng Full modifikasi #2",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukolengfullmoodif/main/trukoleng3.html",
-      "video": ""
-    },
-{
-      "id": 4,
-      "category": "Mod Truk Oleng Full Modif",
-      "title": "Truk Oleng Sujama Malika",
-      "image": "https://raw.githubusercontent.com/majjalan111/trukhinodumptruck/main/dumptruk%20fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/trukolengfullmoodif/main/trukoleng4.html",
-      "video": ""
-    }    
+    }
 		
   ]
 }
